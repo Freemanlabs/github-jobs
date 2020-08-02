@@ -1,7 +1,7 @@
 ## Github Jobs App
 
-A Github web App with React Hooks.
-This app fetches a list of jobs from the github API
+A Github web App with React Hooks.<br />
+This app fetches list of jobs from the github API with functionalities including seach, filter, pagination, etc
 
 ## Available Scripts
 
